@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malikmeraj
 - 👀 I’m interested in ... Laravel  
-- 🌱 I’m currently learning ... Paython
+- 🌱 I’m currently learning ... Node JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/malik-meraj-632302174
 
